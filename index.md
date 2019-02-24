@@ -7,4 +7,4 @@ Here are some of my favorites:
 + https://github.com/getraid/raspberrypi-led-node-and-webserver
 + https://github.com/getraid/ScreenLightSpreader
 
-If my website is running, you might as well look there as well: getraid.com
+If my website is running, you might as well look there as well: http://getraid.com/
